@@ -1,0 +1,11 @@
+LIBRARY NativeClass
+DESCRIPTION "DURJAY's Native Library"
+
+EXPORTS
+
+DllMain
+Java_NativeClass_createVals
+Java_NativeClass_reverseArray
+Java_NativeClass_createStrs
+Java_NativeClass_sortStrs
+Java_NativeClass_genException
